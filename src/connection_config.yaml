@@ -1,0 +1,6 @@
+DATABASE_HOST: localhost
+DATABASE_DB: finance_db
+DATABASE_USER: finance_db_user
+DATABASE_PASSWORD: 1234
+DATABASE_NAME: finance_db
+DATABASE_PORT: 5432
